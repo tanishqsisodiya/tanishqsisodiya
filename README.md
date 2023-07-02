@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanishqsisodiya&label=Profile%20views&color=0e75b6&style=flat" alt="tanishqsisodiya"/> </p>
 <h1><b>Hey there👋</b> </h1>
 
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=D365F7&width=435&lines=I+am+Tanishq+Sisodiya" />
