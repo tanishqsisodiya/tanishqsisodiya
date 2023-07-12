@@ -13,7 +13,7 @@
 <h1 align="center"><img width="60px" height="60px"src="Gifs/Connect.gif"> Connect with me: </h1>
 
 [![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqsisodiya) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tanishq-sisodiya-569082283/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-sisodiya-569082283/) 
 
 <a href="https://leetcode.com/tanishq64/" target="_blank"><img src=	"https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" img alt="Leetcode"></a>
 
