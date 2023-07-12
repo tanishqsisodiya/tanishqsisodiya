@@ -6,7 +6,7 @@
 <h3>A passionate Web Developer and Competitive Coder</h3> <br>
 
 
-💬 Ask me about **Data Structure and Algorithms, HTML, CSS, JavaScript, ReactJs**<br>📫 How to reach me? tanishqsisodiya321@gmail.com<br>📄 Know about my **skills** <a  href="https://drive.google.com/file/d/1LT5S_9AaieZHOJgqP6eXa3BghahQ7IbA/view?usp=drive_link">Resume</a>
+💬 Ask me about **Data Structure and Algorithms, HTML, CSS, JavaScript, ReactJs**<br>📫 How to reach me? tanishqsisodiya321@gmail.com<br>📄 Know about my **skills** <a  href="https://drive.google.com/file/d/1KAun6sYeHHUQGO6D_pv8LRUrbWudVHe5/view?usp=sharing">Resume</a>
 
 <hr>
 
